@@ -1,0 +1,25 @@
+.nameinputs{
+    width: 45% !important;
+    background-color: #dcdcdc;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+.input-form{
+    margin: 0px 50px;
+}
+.email-role-inputs{
+    background-color: #dcdcdc;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+.color-selector{
+    background-color: #7091F5;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}
+.color-selector input {
+    display: none;
+}

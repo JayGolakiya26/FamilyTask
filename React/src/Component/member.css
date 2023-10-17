@@ -1,0 +1,11 @@
+.hero-left {
+    background-color: #dcdcdc;
+    height: 100vh;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+.family-color{
+    border-radius: 50% !important                                                                                   ;
+    height: 20px;
+    width: 20px;
+    margin: auto 0px;
+}
